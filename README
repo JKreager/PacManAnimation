@@ -1,0 +1,10 @@
+This project uses an array of 4 images to demonstrate PacMan's mouth opening and closing while also detecting the edge of screen, turning around, then reversing in the opposite direction doing the same movement. 
+  The animation is triggered from left to right by clicking the PacMan image(s). 
+  To broadly explain the steps involved: 
+  pos - signifies the starting position
+  pageWidth = window.innerWidth allows the width limit to reflect the browser's window width.  
+  The array of images gives the various images which are switches back and forth for each direction PacMan moves. 1 & 2 left to right and 3 & 4 right to left, respectively. 
+  Using Boolean value, we can set these parameters which show movement from left to right and right to left and with the Run function which triggers the 'shuffling' of these images on this axis. 
+  The last component is the checkPageBounds function which detects the edge to assign which images are used, and which direction it moves on this axis. 
+
+I am hoping to develop this a bit further, with more user interaction as well. Thank you for looking!
