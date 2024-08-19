@@ -7,4 +7,4 @@ This project uses an array of 4 images to demonstrate PacMan's mouth opening and
   Using Boolean value, we can set these parameters which show movement from left to right and right to left and with the Run function which triggers the 'shuffling' of these images on this axis. 
   The last component is the checkPageBounds function which detects the edge to assign which images are used, and which direction it moves on this axis. 
 
-I am hoping to develop this a bit further, with more user interaction as well. Thank you for looking!
+I am hoping to develop this a bit further, as more of a representation of the Pac Man game, with the ghost characters functioning in a way that terminates the session.  
