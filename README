@@ -1,3 +1,6 @@
+To run this please download all files into one folder/directory and open pacmanx.html into a web browser. Then click to interact with the script by changing the images. Here are more thorough instructions on the specific coding used: 
+
+
 This project uses an array of 4 images to demonstrate PacMan's mouth opening and closing while also detecting the edge of screen, turning around, then reversing in the opposite direction doing the same movement. 
   The animation is triggered from left to right by clicking the PacMan image(s). 
   To broadly explain the steps involved: 
